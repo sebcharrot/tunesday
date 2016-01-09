@@ -1,6 +1,6 @@
 # tunesday
 
-A web application which lets you 
+A web application which lets you share music with your chums.
 
 # Copyright Stuff
 
